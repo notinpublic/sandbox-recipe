@@ -10,14 +10,14 @@ export const AlbumCardSetup: AlbumCardSetupEntry[] = [
     },
     {
       title: "Graduation2",
-      tracks: "15",
+      tracks: "20",
       year: 2000,
       cover: "../../images/graduation.jpeg",
       alt: "graduation",
     },
     {
       title: "Graduation3",
-      tracks: "15",
+      tracks: "30",
       year: 2000,
       cover: "../../images/graduation.jpeg",
       alt: "graduation",

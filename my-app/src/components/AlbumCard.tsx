@@ -3,7 +3,7 @@ import styles from "./AlbumCard.module.css";
 
 function AlbumCard({ props }: { props: AlbumCardSetupEntry[]}): any {
   return (
-    <div className={`${styles.divGrid}`}>
+    <div className={`${styles.outerDiv}`}>
       {props.map((entry: any) => {
         return (
           <div className={`${styles.cardDiv}`}>

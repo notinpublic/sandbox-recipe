@@ -1,30 +1,39 @@
+.outerDiv {
+    width: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    margin: 2em;
+}
+
 .cardDiv {
-    border: solid 1px red;
-    padding: 2em;
+    border: solid 1px rgb(198, 198, 198);
+    border-radius: 20px;
+    padding: 1.5em;
+    text-align: center;
 }
 
 .cover {
     width: 200px;
+    margin: auto;
 }
 
 .title {
     font-size: 2em;
     font-weight: bold;
+    margin: 1em 0 0 0;
+    
 }
 
 .tracks {
     font-size: 1em;
+    margin: 0 0 0 0;
 }
 
 .year {
     font-size: 0.8em;
-    color: rgb(109, 109, 109)
+    color: rgb(109, 109, 109);
+    margin: 0 0 0 0;
 }
 
-.divGrid {
-    width:100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
-}
