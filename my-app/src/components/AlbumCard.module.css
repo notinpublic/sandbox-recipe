@@ -1,0 +1,30 @@
+.cardDiv {
+    border: solid 1px red;
+    padding: 2em;
+}
+
+.cover {
+    width: 200px;
+}
+
+.title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.tracks {
+    font-size: 1em;
+}
+
+.year {
+    font-size: 0.8em;
+    color: rgb(109, 109, 109)
+}
+
+.divGrid {
+    width:100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+}
