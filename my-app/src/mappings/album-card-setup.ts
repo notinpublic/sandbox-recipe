@@ -3,7 +3,7 @@ import { AlbumCardSetupEntry } from "../types";
 export const AlbumCardSetup: AlbumCardSetupEntry[] = [
   {
     title: "The College Dropout",
-    tracks: "?",
+    tracks: "22",
     year: 2004,
     cover: "../../images/the-college-dropout.jpg",
     alt: "",
