@@ -1,3 +1,9 @@
+# Development notes
+
+Only works on Chrome and newest browsers
+Link to video used to implement effect
+https://www.youtube.com/watch?v=Qj0Qx8HpNUo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
